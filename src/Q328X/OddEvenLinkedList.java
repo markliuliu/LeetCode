@@ -3,7 +3,7 @@ package Q328X;
 import util.ListNode;
 
 /**
- * Little bug in those codes.
+ * Little bug in the code.
  */
 public class OddEvenLinkedList {
     public ListNode oddEvenList(ListNode head) {

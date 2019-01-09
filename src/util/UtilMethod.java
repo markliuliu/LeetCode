@@ -17,4 +17,12 @@ public class UtilMethod {
         }
         return output;
     }
+
+    public static void printArray(int[] a)
+    {
+        for(int value : a){
+            System.out.printf("%d",value);
+        }
+        System.out.printf("\n");
+    }
 }
